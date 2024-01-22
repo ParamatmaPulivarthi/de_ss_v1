@@ -5,3 +5,8 @@ if passing_variage>20:
 else:
     print(" your age is false")
 
+location = "patanpet"
+if location == "patanpet":
+    print(" person is available")
+else:
+    print("person is not available")
